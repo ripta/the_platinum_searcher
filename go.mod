@@ -10,11 +10,11 @@ require (
 	github.com/monochromegane/terminal v0.0.0-20161222050454-9bc47e2707d9
 	github.com/monochromegane/the_platinum_searcher v2.2.0+incompatible
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644
-	golang.org/x/text v0.1.1-0.20171013141220-c01e4764d870
+	golang.org/x/text v0.6.0
 )
 
 require (
 	github.com/BurntSushi/toml v0.3.1-0.20170626110600-a368813c5e64 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
-	gopkg.in/yaml.v2 v2.0.0-20170812160011-eb3733d160e7 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
